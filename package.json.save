@@ -1,0 +1,29 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "esbuild": "^0.25.4",
+    "fdir": "^6.4.4",
+    "nanoid": "^3.3.11",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.2",
+    "postcss": "^8.5.3",
+    "rollup": "^4.41.0",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
